@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "藏品一览",
+  "usingComponents": {
+    "u-loadmore": "/uview/components/u-loadmore/u-loadmore"
+  }
+}

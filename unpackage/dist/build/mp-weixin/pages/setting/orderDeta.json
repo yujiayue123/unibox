@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "订单详情",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "u-navbar": "/uview/components/u-navbar/u-navbar",
+    "u-time-line": "/uview/components/u-time-line/u-time-line",
+    "u-time-line-item": "/uview/components/u-time-line-item/u-time-line-item"
+  }
+}

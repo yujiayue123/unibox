@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "我的钱包",
+  "usingComponents": {
+    "u-loadmore": "/uview/components/u-loadmore/u-loadmore"
+  }
+}

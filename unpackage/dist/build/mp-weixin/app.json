@@ -1,0 +1,94 @@
+{
+  "pages": [
+    "pages/tabbar/home",
+    "pages/tabbar/blindBox",
+    "pages/tabbar/market",
+    "pages/tabbar/my",
+    "pages/market/collectionDeta",
+    "pages/market/record",
+    "pages/market/marketBuy",
+    "pages/market/blindBoxDeta",
+    "pages/my/setup",
+    "pages/my/wallet",
+    "pages/my/propose",
+    "pages/my/recharge",
+    "pages/my/order",
+    "pages/my/merge",
+    "pages/my/mergeCore",
+    "pages/my/mergeRecord",
+    "pages/my/mergeRule",
+    "pages/my/myCollection",
+    "pages/my/myBlindBox",
+    "pages/my/collectionDeta",
+    "pages/my/sell",
+    "pages/my/give",
+    "pages/setup/setupCollection",
+    "pages/setup/exchange",
+    "pages/setup/realName",
+    "pages/setup/ranking",
+    "pages/setup/address",
+    "pages/setup/security",
+    "pages/setup/help",
+    "pages/setup/about",
+    "pages/setup/noticeDeta",
+    "pages/login/nickname",
+    "pages/login/login",
+    "pages/login/register",
+    "pages/login/forget",
+    "pages/login/setPassword",
+    "pages/login/setLock",
+    "pages/login/bank",
+    "pages/home/notice",
+    "pages/home/noticeDeta",
+    "pages/home/collection",
+    "pages/home/collectionDeta",
+    "pages/home/invitation",
+    "pages/home/invitationRecord",
+    "pages/blindBox/blindBoxDeta",
+    "pages/blindBox/extractRecords",
+    "pages/setting/article",
+    "pages/setting/lockList",
+    "pages/setting/orderDeta",
+    "pages/setting/webview"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "灵猫数藏",
+    "navigationBarBackgroundColor": "#F7F8FA",
+    "backgroundColor": "#F7F8FA"
+  },
+  "tabBar": {
+    "color": "#000000",
+    "selectedColor": "#000000",
+    "backgroundColor": "#fff",
+    "list": [
+      {
+        "pagePath": "pages/tabbar/home",
+        "iconPath": "static/tabbar2.png",
+        "selectedIconPath": "static/tabbar1.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/tabbar/blindBox",
+        "iconPath": "static/tabbar4.png",
+        "selectedIconPath": "static/tabbar3.png",
+        "text": "盲盒"
+      },
+      {
+        "pagePath": "pages/tabbar/market",
+        "iconPath": "static/tabbar6.png",
+        "selectedIconPath": "static/tabbar5.png",
+        "text": "市场",
+        "visible": false
+      },
+      {
+        "pagePath": "pages/tabbar/my",
+        "iconPath": "static/tabbar8.png",
+        "selectedIconPath": "static/tabbar7.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

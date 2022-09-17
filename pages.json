@@ -1,0 +1,330 @@
+{
+	"easycom": {
+		"^u-(.*)": "@/uview/components/u-$1/u-$1.vue"
+	},
+	"pages": [{
+			"path": "pages/tabbar/home",
+			"style": {
+				"navigationBarTitleText": "奇幻数藏",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/tabbar/blindBox",
+			"style": {
+				"navigationBarTitleText": "奇幻盲盒"
+			}
+		},
+		{
+			"path": "pages/tabbar/market",
+			"style": {
+				"navigationBarTitleText": "寄售"
+			}
+		},
+		{
+			"path": "pages/tabbar/my",
+			"style": {
+				"navigationBarTitleText": "个人中心"
+			}
+		},
+		{
+			"path": "pages/market/collectionDeta",
+			"style": {
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/market/record",
+			"style": {
+				"navigationBarTitleText": "抽取记录"
+			}
+		},
+		{
+			"path": "pages/market/marketBuy",
+			"style": {
+				"navigationBarTitleText": "购买藏品"
+			}
+		},
+		{
+			"path": "pages/market/blindBoxDeta",
+			"style": {
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/my/setup",
+			"style": {
+				"navigationBarTitleText": "设置"
+			}
+		},
+		{
+			"path": "pages/my/wallet",
+			"style": {
+				"navigationBarTitleText": "我的钱包"
+			}
+		},
+		{
+			"path": "pages/my/propose",
+			"style": {
+				"navigationBarTitleText": "提现"
+			}
+		},
+		{
+			"path": "pages/my/recharge",
+			"style": {
+				"navigationBarTitleText": "充值"
+			}
+		},
+		{
+			"path": "pages/my/order",
+			"style": {
+				"navigationBarTitleText": "我的订单"
+			}
+		},
+		{
+			"path": "pages/my/merge",
+			"style": {
+				"navigationBarTitleText": "合成"
+			}
+		},
+		{
+			"path": "pages/my/mergeCore",
+			"style": {
+				"navigationBarTitleText": "合成中心"
+			}
+		},
+		{
+			"path": "pages/my/mergeRecord",
+			"style": {
+				"navigationBarTitleText": "合成记录"
+			}
+		},
+		{
+			"path": "pages/my/mergeRule",
+			"style": {
+				"navigationBarTitleText": "合成规则"
+			}
+		},
+		{
+			"path": "pages/my/myCollection",
+			"style": {
+				"navigationBarTitleText": "我的藏品"
+			}
+		},
+		{
+			"path": "pages/my/myBlindBox",
+			"style": {
+				"navigationBarTitleText": "我的盲盒"
+			}
+		},
+		{
+			"path": "pages/my/collectionDeta",
+			"style": {
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/my/sell",
+			"style": {
+				"navigationBarTitleText": "出售"
+			}
+		},
+		{
+			"path": "pages/my/give",
+			"style": {
+				"navigationBarTitleText": "转赠"
+			}
+		},
+		{
+			"path": "pages/setup/setupCollection",
+			"style": {
+				"navigationBarTitleText": "我的藏品"
+			}
+		},
+		{
+			"path": "pages/setup/exchange",
+			"style": {
+				"navigationBarTitleText": "兑换码"
+			}
+		},
+		{
+			"path": "pages/setup/realName",
+			"style": {
+				"navigationBarTitleText": "实名认证"
+			}
+		},
+		{
+			"path": "pages/setup/ranking",
+			"style": {
+				"navigationBarTitleText": "排行榜"
+			}
+		},
+		{
+			"path": "pages/setup/address",
+			"style": {
+				"navigationBarTitleText": "添加收货地址"
+			}
+		}, {
+			"path": "pages/setup/security",
+			"style": {
+				"navigationBarTitleText": "安全中心"
+			}
+		},
+		{
+			"path": "pages/setup/help",
+			"style": {
+				"navigationBarTitleText": "帮助中心"
+			}
+		},
+		{
+			"path": "pages/setup/about",
+			"style": {
+				"navigationBarTitleText": "关于我们"
+			}
+		},
+		{
+			"path": "pages/setup/noticeDeta",
+			"style": {
+				"navigationBarTitleText": "详情"
+			}
+		},
+		{
+			"path": "pages/login/nickname",
+			"style": {
+				"navigationBarTitleText": "修改昵称"
+			}
+		},
+		{
+			"path": "pages/login/login",
+			"style": {
+				"navigationBarTitleText": "登录"
+			}
+		},
+		{
+			"path": "pages/login/register",
+			"style": {
+				"navigationBarTitleText": "注册"
+			}
+		},
+		{
+			"path": "pages/login/forget",
+			"style": {
+				"navigationBarTitleText": "忘记密码"
+			}
+		},
+		{
+			"path": "pages/login/setPassword",
+			"style": {
+				"navigationBarTitleText": "设置密码"
+			}
+		},
+		{
+			"path": "pages/login/setLock",
+			"style": {
+				"navigationBarTitleText": "设置交易密码"
+			}
+		},
+		{
+			"path": "pages/login/bank",
+			"style": {
+				"navigationBarTitleText": "绑定银行卡"
+			}
+		},
+		{
+			"path": "pages/home/notice",
+			"style": {
+				"navigationBarTitleText": "公告"
+			}
+		}, {
+			"path": "pages/home/noticeDeta",
+			"style": {
+				"navigationBarTitleText": "公告详情"
+			}
+		}, {
+			"path": "pages/home/collection",
+			"style": {
+				"navigationBarTitleText": "藏品一览"
+			}
+		}, {
+			"path": "pages/home/collectionDeta",
+			"style": {
+				"navigationStyle": "custom"
+			}
+		}, {
+			"path": "pages/home/invitation",
+			"style": {
+				"navigationBarTitleText": "邀请好友"
+			}
+		}, {
+			"path": "pages/home/invitationRecord",
+			"style": {
+				"navigationBarTitleText": "邀请记录"
+			}
+		}, {
+			"path": "pages/blindBox/blindBoxDeta",
+			"style": {
+				"navigationBarTitleText": "盲盒详情",
+				"navigationStyle": "custom"
+			}
+		}, {
+			"path": "pages/blindBox/extractRecords",
+			"style": {
+				"navigationBarTitleText": "抽取记录"
+			}
+		}, {
+			"path": "pages/setting/article",
+			"style": {
+				"navigationBarTitleText": "详情"
+			}
+		}, {
+			"path": "pages/setting/lockList",
+			"style": {
+				"navigationBarTitleText": "购买商品"
+			}
+		}, {
+			"path": "pages/setting/orderDeta",
+			"style": {
+				"navigationBarTitleText": "订单详情",
+				"navigationStyle": "custom"
+			}
+		},{
+			"path": "pages/setting/webview",
+			"style": {
+				"navigationBarTitleText": "订单支付"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "奇幻数藏",
+		"navigationBarBackgroundColor": "#F7F8FA",
+		"backgroundColor": "#F7F8FA"
+	},
+	"tabBar": {
+		"color": "#000000",
+		"selectedColor": "#000000",
+		"backgroundColor": "#fff",
+		"list": [{
+			"pagePath": "pages/tabbar/home",
+			"iconPath": "static/tabbar2.png",
+			"selectedIconPath": "static/tabbar1.png",
+			"text": "首页"
+		}, {
+			"pagePath": "pages/tabbar/blindBox",
+			"iconPath": "static/tabbar4.png",
+			"selectedIconPath": "static/tabbar3.png",
+			"text": "盲盒"
+		}, {
+			"pagePath": "pages/tabbar/market",
+			"iconPath": "static/tabbar6.png",
+			"selectedIconPath": "static/tabbar5.png",
+			"text": "市场",
+			"visible":false
+		}, {
+			"pagePath": "pages/tabbar/my",
+			"iconPath": "static/tabbar8.png",
+			"selectedIconPath": "static/tabbar7.png",
+			"text": "我的"
+		}]
+	}
+}

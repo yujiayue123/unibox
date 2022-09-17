@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "我的藏品",
+  "usingComponents": {
+    "u-loadmore": "/uview/components/u-loadmore/u-loadmore",
+    "u-modal": "/uview/components/u-modal/u-modal",
+    "u-toast": "/uview/components/u-toast/u-toast"
+  }
+}

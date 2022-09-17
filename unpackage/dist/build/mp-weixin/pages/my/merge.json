@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "合成",
+  "usingComponents": {
+    "u-swiper": "/uview/components/u-swiper/u-swiper",
+    "u-loadmore": "/uview/components/u-loadmore/u-loadmore"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "排行榜",
+  "usingComponents": {
+    "u-loadmore": "/uview/components/u-loadmore/u-loadmore"
+  }
+}

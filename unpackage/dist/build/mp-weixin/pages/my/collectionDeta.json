@@ -1,0 +1,7 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "u-parse": "/uview/components/u-parse/u-parse",
+    "u-modal": "/uview/components/u-modal/u-modal"
+  }
+}

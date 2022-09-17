@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "注册",
+  "usingComponents": {
+    "u-toast": "/uview/components/u-toast/u-toast"
+  }
+}

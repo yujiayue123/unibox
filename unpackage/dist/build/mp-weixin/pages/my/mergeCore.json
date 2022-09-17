@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "合成中心",
+  "usingComponents": {
+    "u-popup": "/uview/components/u-popup/u-popup",
+    "u-toast": "/uview/components/u-toast/u-toast"
+  }
+}

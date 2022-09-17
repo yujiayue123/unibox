@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "公告",
+  "usingComponents": {
+    "u-parse": "/uview/components/u-parse/u-parse",
+    "u-loadmore": "/uview/components/u-loadmore/u-loadmore"
+  }
+}

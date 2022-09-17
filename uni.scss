@@ -1,0 +1,28 @@
+@import 'uview/theme.scss';
+$baseColor:#F7F8FA;
+// $baseColor:linear-gradient(135deg, #FD86FF 23%, #44D7FF 57%) linear-gradient(90deg, #FAFAFA 0%, rgba(250, 250, 250, 0) 100%);
+
+$navHeight: var(--window-top);//导航栏高度
+$tabBarHeight : var(--window-bottom);//tabBar高度
+
+*{
+	font-family: Source Han Sans CN-Medium, Source Han Sans CN;
+}
+.uni_box{
+	width: 100vw;
+	min-height:100%;
+	background: $baseColor;
+}
+image{
+	pointer-events: none;
+}
+// 下面的可删除
+.test{
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	overflow: hidden;	
+}
+
+
+
+

@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "灵猫数藏",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "u-swiper": "/uview/components/u-swiper/u-swiper",
+    "u-loadmore": "/uview/components/u-loadmore/u-loadmore"
+  }
+}

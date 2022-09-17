@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "u-line": "/uview/components/u-line/u-line",
+    "u-loading": "/uview/components/u-loading/u-loading"
+  }
+}

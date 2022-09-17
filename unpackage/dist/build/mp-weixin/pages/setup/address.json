@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "添加收货地址",
+  "usingComponents": {
+    "u-picker": "/uview/components/u-picker/u-picker",
+    "u-toast": "/uview/components/u-toast/u-toast"
+  }
+}

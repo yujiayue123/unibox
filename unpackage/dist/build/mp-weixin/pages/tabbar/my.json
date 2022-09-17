@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "个人中心",
+  "usingComponents": {
+    "u-grid": "/uview/components/u-grid/u-grid",
+    "u-grid-item": "/uview/components/u-grid-item/u-grid-item"
+  }
+}

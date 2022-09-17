@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "合成记录",
+  "usingComponents": {
+    "u-loadmore": "/uview/components/u-loadmore/u-loadmore"
+  }
+}

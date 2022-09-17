@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "转赠",
+  "usingComponents": {
+    "u-parse": "/uview/components/u-parse/u-parse"
+  }
+}

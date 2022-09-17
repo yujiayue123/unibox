@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "邀请好友",
+  "usingComponents": {
+    "qrcode": "/uni_modules/qrcode/components/qrcode/qrcode"
+  }
+}

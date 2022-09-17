@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "合成规则",
+  "usingComponents": {
+    "u-parse": "/uview/components/u-parse/u-parse"
+  }
+}

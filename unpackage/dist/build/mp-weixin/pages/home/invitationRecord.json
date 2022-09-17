@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "邀请记录",
+  "usingComponents": {
+    "u-loadmore": "/uview/components/u-loadmore/u-loadmore"
+  }
+}

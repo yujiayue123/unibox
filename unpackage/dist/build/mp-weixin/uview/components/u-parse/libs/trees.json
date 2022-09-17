@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "trees": "/uview/components/u-parse/libs/trees"
+  }
+}

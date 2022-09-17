@@ -1,0 +1,1 @@
+<view class="uni_box noticeDeta data-v-7e9178d5"><u-parse vue-id="2e1f3839-1" html="{{content}}" tag-style="{{style}}" class="data-v-7e9178d5" bind:__l="__l"></u-parse></view>

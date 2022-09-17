@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "盲盒详情",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "u-parse": "/uview/components/u-parse/u-parse"
+  }
+}

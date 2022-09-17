@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "兑换码",
+  "usingComponents": {
+    "u-loadmore": "/uview/components/u-loadmore/u-loadmore"
+  }
+}
